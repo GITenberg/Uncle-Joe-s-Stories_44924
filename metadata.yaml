@@ -1,0 +1,46 @@
+_repo: Uncle-Joe-s-Stories_44924
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Griset, Ernest Henry
+    birthdate: 1844
+    deathdate: 1907
+    gutenberg_agent_id: '8211'
+    url: http://www.gutenberg.org/2009/agents/8211
+covers:
+- cover_type: archival
+  image_path: 44924-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brabourne, Edward Hugessen Knatchbull-Hugessen, Baron
+    aliases:
+    - Hugessen, E. H. Knatchbull (Edward Hugessen Knatchbull)
+    - Knatchbull-Hugessen, Edward Hugessen, Baron Brabourne
+    birthdate: 1829
+    deathdate: 1893
+    gutenberg_agent_id: '42748'
+    url: http://www.gutenberg.org/2009/agents/42748
+description: ''
+gutenberg_issued: '2014-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44924'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Fairies -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Uncles -- Juvenile fiction'
+tableOfContents: Uncle Joe -- Zac's bride -- Evelyn with the fairies -- Cat and dog
+  -- Ophelia -- The crones of Mersham.
+title: Uncle Joe's Stories
+url: http://www.gutenberg.org/ebooks/44924
